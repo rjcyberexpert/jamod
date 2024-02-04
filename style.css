@@ -71,7 +71,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: crimson;
+    color: #e79f31;
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -101,7 +101,7 @@ section .title::after{
     font-weight: 600;
 }
 .navbar .logo a span{
-    color: crimson;
+    color: #e79f31;
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -469,7 +469,7 @@ section .title::after{
 }
 .contact .contact-content .row i{
     font-size: 25px;
-    color: crimson;
+    color: #e79f31;
 }
 .contact .contact-content .info .head{
     font-weight: 500;
